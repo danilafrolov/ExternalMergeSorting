@@ -1,0 +1,57 @@
+Danila Frolov
+
+Address			Russian Federation, Tomsk city, per. Nakhimova, 10/1, 8.
+Mobile phone			+7-913-108-29-03	
+E-mail				frolovdanila1993@gmail.com
+Date of birth			18.09.1993
+Education
+2011-2015: Bachelor of Computer Science  
+Tomsk Polytechnic University / Tomsk, Russia 
+Information systems and technologies (Geographic Information Systems)
+
+2015-2017: Master of Computer Science  
+Tomsk Polytechnic University / Tomsk, Russia 
+Information systems and technologies (Geographic Information Systems)
+
+09.2016-03.2017: Student exchange program 
+Polytechnic University of Milan / Milan, Italy
+Studied courses: 
+* Database Systems 2 
+* Mobile Applications
+* Satellite Navigation and Monitoring
+Experience
+08/2017 to 01/2018
+Department of forest protection.
+Tomsk, Russia.
+GIS Engineer
+Worked with GIS systems (ArcGIS, QGIS, MapInfo).
+02.2018 to Current
+TomskNIPIneft co.
+Tomsk, Russia
+Software developer (Department of GIS-software development) 
+
+Participated in the development of the following projects: 
+* Automatic design system for mine surveyors
+Client-server web-application which is designed for automation of processes performed by mine surveyours in the area of geological and surveying support for designing and drilling of wells. 
+The main functions of the application:
+o Centralized data storage of wells, well clusters, fields, which simplifies company’s geodata management (access, requesting, analyzing, modification)
+o Updating wells database allows receiving operational reporting about well stock
+o Clustering of wells according to their location and data visualization on the map
+Technologies:
+o Back-end: C#, ASP.NET MVC + WebAPI, NHibernate, PostgreSQL (PostGIS)
+o Front-end: Vue.js + JavaScript libraries (Plotly.js, OpenLayers.js, etc.), HTML/CSS
+
+* AutoCAD and GeoServer (PostGIS) integration
+Desktop plugins for AutoCAD designed for integration with geodata source (PostGIS, GeoServer). 
+The main function of the plugin is data exchange between AutoCAD and GeoServer. The plugin receives geodata from GeoServer (by WFS) and converts it to AutoCAD data features and creates a drawing, so user works with it as with usual AutoCAD drawing. When the work is finished, plugin provides reverse process: receiving data from the drawing and sending It back to GeoServer.
+Technologies: C#, Windows Forms, ADO.NET Entity Framework, GeoServer (PostgreSQL + PostGIS)     
+Tech stack
+* .NET / C# (ASP.NET MVC, Windows Forms)
+* ORM (ADO.NET Entity Framework, NHibernate) 
+* Databases (MS SQL Server, PostgreSQL)
+* JavaScript (jQuery), Vue.js, Backbone.js, Marionette.js, Leaflet.js, HTML+CSS
+* NPM, WebPack
+* GeoServer, QGIS, ArcGIS
+* Git
+Foreign languages
+English: Upper-Intermediate (B2)
